@@ -20,7 +20,7 @@ setInterval(clock, 1000);
 const whatsAppContact = document.querySelector("#btn");
 
 whatsAppContact.addEventListener("click", () => {
-  const phoneNumber = "92334567527";
+  const phoneNumber = "923345675727";
   const message = "Hi Give me information About your Premium Bots";
 
   window.open(
